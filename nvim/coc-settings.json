@@ -1,0 +1,5 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["*"],
+  "coc.preferences.hoverTarget": "echo",
+  "signature.target": "echo"
+}
