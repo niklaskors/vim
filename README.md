@@ -6,7 +6,8 @@
 2. Install the Roboto Mono Nerd Font
 3. Run `cp /Development/vim/nvim/* .`
 4. Start NeoVim by running `nvim`
-5. Enter `:PlugInstall` to intall all the plugins specified in init.vim
+5. Install `vim-plug`  
+6. Enter `:PlugInstall` to intall all the plugins specified in init.vim
 
 ## Usage
 
